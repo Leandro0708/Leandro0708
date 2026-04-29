@@ -28,6 +28,14 @@ Em busca de evoluir como desenvolvedor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img
+    aling=left
+    alt="TypeScript"
+    tittle="TypeScript"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -37,13 +45,13 @@ Em busca de evoluir como desenvolvedor
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img
-    aling=left
-    alt="TypeScript"
-    tittle="TypeScript"
+    aling="left"
+    alt="PHP"
+    tittle="PHP"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-          />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+/>
 <br/>
 
 ## 📚 Conteudos Já Vistos ##
