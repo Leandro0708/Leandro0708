@@ -1,4 +1,4 @@
-## Olá, eu sou Leandro 👋 ##
+## Olá, me chamo Leandro 👋 ##
 Sou estudante de informática na EEEP Lucia Helena Viana Ribeiro em Horizonte, estou no 3 ano do ensino medio. 
 Em busca de evoluir como desenvolvedor
 
