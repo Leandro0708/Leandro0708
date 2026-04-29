@@ -3,11 +3,14 @@ Sou estudante de informática na EEEP Lucia Helena Viana Ribeiro em Horizonte, e
 Em busca de evoluir como desenvolvedor
 
 ## 🛠️Tecnologias que estou estudando ##
-•PHP
-•TypeScript
-•JavaScript
-•HTML
-•CSS
+
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  
+</p>
 
 ## 📚 Conteudos Já Vistos ##
 • APIs
