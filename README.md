@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, eu sou Leandro 👋 ##
+Sou estudante de informática na EEEP Lucia Helena Viana Ribeiro em Horizonte, estou no 3 ano do ensino medio. 
+Em busca de evoluir como desenvolvedor
 
-<!--
-**Leandro0708/Leandro0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️Tecnologias que estou estudando ##
+•PHP
+•TypeScript
+•JavaScript
+•HTML
+•CSS
 
-Here are some ideas to get you started:
+## 📚 Conteudos Já Vistos ##
+• APIs
+• Banco de dados
+• Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟Objetivos ##
+• Aprimorar minhas habilidades em programação
+• Contribuir na criação de projetos 
+• Construir projetos úteis e criativos
+
+## 📫 Contato ##
+• LinkedIn: https://www.linkedin.com/in/leandro-candido-ferreira/
+
+• E-mail: ferreira.leandroxf@gmail.com
