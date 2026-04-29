@@ -36,7 +36,15 @@ Em busca de evoluir como desenvolvedor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img
+    aling="left"
+    alt="TypeScript"
+    title="Typecript"
+    width="30px"
+    style="padding-right: 10px;"
+    src=<wa-icon name="typescript" family="brands"></wa-icon>
+    />
+    
 <br/>
 
 ## 📚 Conteudos Já Vistos ##
