@@ -35,7 +35,7 @@ Em busca de evoluir como desenvolvedor
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
+ />
 <img 
     align="left" 
     alt="Git" 
@@ -51,7 +51,7 @@ Em busca de evoluir como desenvolvedor
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-/>
+     
 <br/>
 
 ## 📚 Conteudos Já Vistos ##
