@@ -54,7 +54,7 @@ Em busca de evoluir como desenvolvedor
      
 <br/>
 
-## 📚 Conteudos Já Vistos ##
+## 📚 Conteudos Já Estudado/Ainda Estudando ##
 • APIs
 • Banco de dados
 • Lógica de programação
