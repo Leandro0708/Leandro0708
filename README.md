@@ -1,8 +1,8 @@
-## Olá, me chamo Leandro 👋 ##
+<h1>Olá, me chamo Leandro 👋</h1>
 Sou estudante de informática na EEEP Lucia Helena Viana Ribeiro em Horizonte, estou no 3 ano do ensino medio. 
 Em busca de evoluir como desenvolvedor
 
-## 🛠️Tecnologias que estou estudando ##
+<h2>🛠️Tecnologias que estou estudando</h2>
 
 <img 
     align="left" 
@@ -52,19 +52,24 @@ Em busca de evoluir como desenvolvedor
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
      
-<br/>
 
-## 📚 Conteudos Já Estudado/Ainda Estudando ##
+<h2>📚 Conteudos Já Estudado/Ainda Estudando</h2>
 • APIs
+<p></p>
 • Banco de dados
+<p></p>
 • Lógica de programação
+<p></p>
 
-## 🌟Objetivos ##
+<h2>🌟Objetivos</h2>
 • Aprimorar minhas habilidades em programação
+<p></p>
 • Contribuir na criação de projetos 
+<p></p>
 • Construir projetos úteis e criativos
+<p></p>
 
-## 📫 Contato ##
+<h2>📫 Contato</h2>
 • LinkedIn: https://www.linkedin.com/in/leandro-candido-ferreira/
 
 • E-mail: ferreira.leandroxf@gmail.com
